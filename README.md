@@ -1,2 +1,2 @@
 # hello-world
-Initial diving into GitHub
+First time using GitHub
